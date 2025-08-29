@@ -11,4 +11,5 @@ Submissions are evaluated using ROC AUC between the predicted value and the obse
 
 # Submission File
 For each id in the test set, you must predict the probability of the binary target y. The file should contain a header and have the following format:
+
 <img width="665" height="122" alt="submission-example" src="https://github.com/user-attachments/assets/e202b107-b987-4025-925d-c1ea27db0cf1" />
